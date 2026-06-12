@@ -17,7 +17,7 @@ This project analyzes customer bike purchase behavior using Excel.
 - Interactive slicers allow filtering by marital status, education, and region.
 
 ## Dashboard Preview
-![Dashboard](dashboard.png)
+(dashboard.png)
 
 ## Skills Demonstrated
 - Data Cleaning
